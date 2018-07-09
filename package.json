@@ -1,0 +1,7 @@
+{
+  "name": "Vno",
+  "version": "0.1.0",
+  "dependencies": {
+    "bourbon": "^5.0.1"
+  }
+}
